@@ -1,1 +1,1 @@
-# Trivia
+This is a Trivia quiz in which you can get the score based upon your answer 
